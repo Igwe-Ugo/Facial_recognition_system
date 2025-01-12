@@ -73,7 +73,7 @@ git clone https://github.com/Igwe-Ugo/Facial_recognition_system.git
 
 2. Navigate to the project directory:
 ```bash
-cd face-recognition-mediapipe
+cd Facial_recognition_system
 ```
 
 3. Run the main Python script:
